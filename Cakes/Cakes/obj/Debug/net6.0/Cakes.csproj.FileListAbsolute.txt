@@ -1,0 +1,14 @@
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\bin\Debug\net6.0\Cakes.exe
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\bin\Debug\net6.0\Cakes.deps.json
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\bin\Debug\net6.0\Cakes.runtimeconfig.json
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\bin\Debug\net6.0\Cakes.dll
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\bin\Debug\net6.0\Cakes.pdb
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\Cakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\Cakes.AssemblyInfoInputs.cache
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\Cakes.AssemblyInfo.cs
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\Cakes.csproj.CoreCompileInputs.cache
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\Cakes.dll
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\refint\Cakes.dll
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\Cakes.pdb
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\Cakes.genruntimeconfig.cache
+C:\учеба\стажировки\тесты\торты\Cakes\Cakes\obj\Debug\net6.0\ref\Cakes.dll
